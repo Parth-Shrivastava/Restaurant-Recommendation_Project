@@ -1,0 +1,1 @@
+This repository contains a Recommendation system project i made by me on Google Colab. It mainly use TF-IDF for review analysis and Kmeans clustering for Location based clustering. It takes input of location and Restaurant type from user and tells them the output based on the output bby the algorithm or the Listed according the output from review analysis.
